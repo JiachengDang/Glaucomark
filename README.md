@@ -1,5 +1,5 @@
 # Glaucomark
-GlaucoMark is a web application based on deep learning that offers a handy and cost-worthy glaucoma exam that is available to everyone with access to the Internet.
+GlaucoMark is a web application based on deep learning that offers online glauocma exam.
 
 The diagnostic model is trained on over five thousand fundus images and achieved an accuracy of 97.9%(AUC0.994)
 
