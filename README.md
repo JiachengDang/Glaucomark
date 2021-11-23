@@ -5,7 +5,6 @@ The diagnostic model is trained on over five thousand fundus images and achieved
 
 
 The project is based on this [Research Paper](https://github.com/Lempickax/Glaucomark/files/7587396/Glaucomark.research.paper.pdf)
-()
 
 Demo of Use
 ![demo](https://user-images.githubusercontent.com/57343372/135970564-dd9fa4fe-51bd-4e5a-907c-8ffef754526a.gif)
